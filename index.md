@@ -1,8 +1,12 @@
 
 <html>
 <head>
-<link rel="stylesheet" href="styles.css">
-  <style type="text/css">
+
+<style>
+  p {
+        color : green
+  }
+  </style>
   </head>
   <body>
     <img src="huhu.jpg" />
