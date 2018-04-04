@@ -1,7 +1,7 @@
 
 <html>
 <head>
-  <style type="text/css">
+<link rel="stylesheet" href="styles.css">
   </head>
   <body>
     <img src="huhu.jpg" />
