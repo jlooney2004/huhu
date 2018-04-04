@@ -3,9 +3,7 @@
 <head>
 
 <style>
-  p {
-        color : green
-  }
+  p {color : green;}
   </style>
   </head>
   <body>
